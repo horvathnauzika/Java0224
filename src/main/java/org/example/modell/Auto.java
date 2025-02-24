@@ -7,7 +7,7 @@ public class Auto{
     private int ferohely, ar;
 
     public Auto(String rendszam, int ferohely, int ar) throws NemLetezoAutoException {
-        if(rendszam.length() < 6){
+        if(rendszam.length() < 6 || rendszam.length() > 6){
             throw new NemLetezoAutoException("A rendszám legalább 6 betű legyen");
         }
         this.rendszam = rendszam;
