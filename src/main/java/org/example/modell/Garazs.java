@@ -3,6 +3,7 @@ package org.example.modell;
 import java.util.*;
 
 public class Garazs implements Iterable<Jarmu> {
+    //
     private LinkedList<Jarmu> jarmuvek;
 
     public Garazs() {

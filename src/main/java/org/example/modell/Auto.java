@@ -3,6 +3,7 @@ package org.example.modell;
 import java.util.Objects;
 
 public class Auto{
+    //
     private String rendszam;
     private int ferohely, ar;
 

@@ -6,6 +6,7 @@ import org.example.modell.NemLetezoAutoException;
 import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest {
+    //
 
     @Test
     void testAutoKivetel(){

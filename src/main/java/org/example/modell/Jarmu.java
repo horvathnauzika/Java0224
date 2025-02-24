@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.UUID;
 
 public class Jarmu extends Auto{
+    //
     private UUID id;
     private String szin;
     private Tulajdonos tulajdonos;

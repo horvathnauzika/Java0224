@@ -1,6 +1,7 @@
 package org.example.modell;
 
 public class Tulajdonos {
+    //
     private String nev;
 
     public Tulajdonos(String nev) {
